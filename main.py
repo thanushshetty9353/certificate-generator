@@ -112,7 +112,7 @@ def main():
         <h1>Quiz Competition Participation</h1>
         <p>
           Dear {name},<br><br>
-          We are thrilled to announce that your certificate for participating in the Quiz Competition is now ready! 🌟 Please find the attached PDF certificate for your records.<br><br>
+          We are thrilled to announce that your certificate for participating in the QUIZ Competition is now ready! 🌟 Please find the attached PDF certificate for your records.<br><br>
           Thank you for your enthusiasm and contributions. We hope you had an amazing time and look forward to your participation in future events!
         </p>
         <p>
