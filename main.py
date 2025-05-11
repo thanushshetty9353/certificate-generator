@@ -109,10 +109,10 @@ def main():
     <!-- Second Card -->
     <div class="card ax-center text-white mb-10">
       <div class="text-content">
-        <h1>Decode and Conquer Competition Participation</h1>
+        <h1>Code Clash Competition Participation</h1>
         <p>
           Dear {name},<br><br>
-          We are thrilled to announce that your certificate for participating in the Decode and Conquer Competition is now ready! 🌟 Please find the attached PDF certificate for your records.<br><br>
+          We are thrilled to announce that your certificate for participating in the Code Clash Competition is now ready! 🌟 Please find the attached PDF certificate for your records.<br><br>
           Thank you for your enthusiasm and contributions. We hope you had an amazing time and look forward to your participation in future events!
         </p>
         <p>
