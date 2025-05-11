@@ -9,9 +9,9 @@ def xlsxName():
 
 
 def user_email():
-    email = 'email'
+    email = 'aimlteam18@gmail.com'
     return email
 
 def sender_passkey():
-    passkey = 'password'
+    passkey = 'dmwg ofpi sniw iddr'
     return passkey
